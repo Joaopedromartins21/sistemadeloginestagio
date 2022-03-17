@@ -1,0 +1,11 @@
+1-Instale o phpmyadmin e  execute o apache e o mysql
+
+2-apos executar coloque no seu navegador localhost/phpmyadmin
+
+3-no phpmyadmin clique em sql e execute o codigo
+
+4-apos executar o codigo digite no navegador localhost/login
+
+OBS: o sistema deve estar dentro da pasta do xampp/htdocs
+
+C:\xampp\htdocs\login\DOCUMENTACAO
